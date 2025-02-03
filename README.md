@@ -56,11 +56,11 @@ thread doesn’t interfere with one another. Therefore, we synchronized the thre
 
 10. Error Handling :
 
-   1. One user can only vote once :
+   10.1. One user can only vote once :
 
    ![Screenshot 2025-02-03 231437](https://github.com/user-attachments/assets/679a4076-e2f2-40c2-a058-f714cd24f332)
    
-   2. Voter not regsiter or invalid :
+   10.2. Voter not regsiter or invalid :
 
    ![Screenshot 2025-02-03 231519](https://github.com/user-attachments/assets/a5832afc-7a57-497a-bf67-97baded5472e)
 
@@ -72,11 +72,11 @@ thread doesn’t interfere with one another. Therefore, we synchronized the thre
 
 12. Database :
     
-    1. Voter List :
+    12.1. Voter List :
 
     ![Screenshot 2025-02-03 232559](https://github.com/user-attachments/assets/7beceaa5-5dac-4f1b-99de-14d4801dae43)
 
-    2. Candidate List :
+    12.2. Candidate List :
 
     ![Screenshot 2025-02-03 232546](https://github.com/user-attachments/assets/ae62b9c4-7ec2-47e3-9873-61d94bc61d42)
 
